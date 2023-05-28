@@ -7,10 +7,12 @@ If this code is helpful for your study, please cite:
 
 ```
 @article{gao2023anatomy,
-  title={An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI},
+  title={An anatomy-aware framework for automatic segmentation of parotid tumor from multimodal MRI},
   author={Gao, Yifan and Dai, Yin and Liu, Fayu and Chen, Weibing and Shi, Lifu},
   journal={Computers in Biology and Medicine},
-  year={2023}
+  pages={107000},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
